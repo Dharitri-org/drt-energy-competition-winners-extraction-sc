@@ -1,0 +1,1 @@
+# drt-energy-competition-winners-extraction-sc
