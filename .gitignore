@@ -1,0 +1,8 @@
+# Dharitri IDE
+**/node_modules
+**/output/**
+**/testnet/**
+**/wallets/**
+**/moapy.data-storage.json
+**/mxpy.data-storage.json
+**/*.interaction.json
